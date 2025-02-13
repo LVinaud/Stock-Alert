@@ -1,0 +1,7 @@
+{
+    "EmailReceiver": "exemplo@gmail.com",
+    "SmtpServer": "smtp.gmail.com",
+    "SmtpPort": 587,
+    "SmtpUser": "exemplo@gmail.com",
+    "SmtpPassword": "senha"
+}
